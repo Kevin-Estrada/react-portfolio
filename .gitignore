@@ -17,6 +17,8 @@ psd
 thumb
 sketch
 
+.env
+
 ### Sass ###
 .sass-cache/
 *.css.map
